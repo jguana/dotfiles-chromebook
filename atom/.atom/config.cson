@@ -1,0 +1,10 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+  editor:
+    fontFamily: "Ubuntu Mono"
+    tabLength: 4
+  "exception-reporting":
+    userId: "6db97ade-3878-4032-8f9a-d5a1782c8436"
+  welcome:
+    showOnStartup: false
